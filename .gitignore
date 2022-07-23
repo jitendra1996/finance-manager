@@ -1,2 +1,10 @@
 node_modules
 .env
+src/interfaces.ts
+src/type.ts
+src/union.ts
+src/funSignature.ts
+public/funSignature.js
+public/interfaces.js
+public/type.js
+public/union.js
